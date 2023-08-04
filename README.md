@@ -1,4 +1,4 @@
-# Blog-API
+# Blog Backend-API with FastAPI
 A simple API for a blog site
 
 ## 📖 Description
