@@ -23,6 +23,7 @@ A simple API for a blog site with user authorization, verification by mail, user
    ```
    pip install fastapi[all] sqlalchemy[asyncio] alembic pydantic uvicorn asyncpg fastapi-users[sqlalchemy]
    ```
+   Create a 'versions' folder in the 'migrations' directory
 2. 👷‍♂️ Create a new database with PostgreSQL
    Create a new database with PostgreSQL, once created, open 'Query tool' and add a table 'alembic_version'
    ```
