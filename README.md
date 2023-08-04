@@ -16,7 +16,7 @@ A simple API for a blog site with user authorization, verification by mail, user
 1. ⬇️ Installing and downloading dependencies
    Creating a virtual environment and activating it
    ```
-   python -m venv/venv
+   python -m venv venv
    source venv/bin/activete
    ```
    Downloading dependencies
